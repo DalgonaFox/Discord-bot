@@ -17,9 +17,3 @@ Eu pretendo melhorar esse bot no futuro, aprimorando os comandos existentes e ad
 
 ## Tecnologias
 Esse repositório se constitui majoritariamente de JavaScript.
-
-## Contato
-Caso tenha dúvidas ou sugestões, entre em contato:
-- Email: mila.olisantos@gmail.com
-- GitHub: [DalgonaFox](https://github.com/DalgonaFox)
-- LinkedIn: [Milena Oliveira Santos](https://www.linkedin.com/in/milena-oliveira-santos-432611278/).
